@@ -1,4 +1,5 @@
-# ReactiveConf-2016-Notes
+![](Header.png)
+# ReactiveConf 2016 Notes
 
 ### Thursday, October 27
 - [How the web ecosystem shaped Angular 2](27-October/How-the-web-ecosystem-shaped-Angular-2.md)
