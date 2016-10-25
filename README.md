@@ -1,4 +1,4 @@
-![](Header.png)
+![](ReactiveConf-Header.png)
 # ReactiveConf 2016 Notes
 
 ### Thursday, October 27
