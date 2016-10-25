@@ -23,3 +23,9 @@
 - [Building better mobile apps with GraphQL](28-October/Building-better-mobile-apps-with-GraphQL.md)
 - [Bridging the Gap: How to use React Native in existing large native code bases](28-October/Bridging-the-Gap-How-to-use-React-Native-in-existing-large-native-code-bases.md)
 - [No Xcode, Android Studio, Java, Swift, Objective C - how far can JavaScript get you?](28-October/No-Xcode-Android-Studio-Java-Swift-Objective-C---how-far-can-JavaScript-get-you.md)
+
+## Why?
+It's the way that I found to keep my attention into conferences.
+
+## Contribute
+Feel free to correct a typo or add an entire talk. 
