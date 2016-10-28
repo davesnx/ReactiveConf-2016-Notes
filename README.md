@@ -14,7 +14,7 @@
 -  _(Empty)_ [Elm and React in production](27-October/Elm-and-React-in-production.md)
 
 ### Friday, October 28
-- [Scaling React.js applications](28-October/Scaling-Reactjs-applications.md)
+- [Styled-components: Enforcing best practices](28-October/Styled-components-Enforcing-best practices.md)
 - [The Universality of Static Sites](28-October/The-Universality-of-Static-Sites.md)
 - [Visualizing the data flow with Cycle.js](28-October/Visualizing-the-data-flow-with-Cyclejs.md)
 - [Writing Sound Asynchronous Code with Coroutines](28-October/Writing-Sound-Asynchronous-Code-with-Coroutines.md)
