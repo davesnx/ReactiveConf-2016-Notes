@@ -2,7 +2,7 @@
 # ReactiveConf 2016 Notes
 
 ### Thursday, October 27
- [How the web ecosystem shaped Angular 2](27-October/How-the-web-ecosystem-shaped-Angular-2.md)
+- [How the web ecosystem shaped Angular 2](27-October/How-the-web-ecosystem-shaped-Angular-2.md)
 - [What's Next? Exploring the future of React](27-October/Whats-Next-Exploring-the-future-of-React.md)
 - [The Age of Reason(ML)](27-October/The-Age-of-Reason.md)
 - [Speed up app development with prefabricated, extensible, open-source backends](27-October/Speed-up-app-development-with-prefabricated-extensible-open-source-backends.md)
