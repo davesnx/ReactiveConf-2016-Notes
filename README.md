@@ -2,16 +2,16 @@
 # ReactiveConf 2016 Notes
 
 ### Thursday, October 27
-- _(Empty)_ [How the web ecosystem shaped Angular 2](27-October/How-the-web-ecosystem-shaped-Angular-2.md)
--  _(Empty)_ [What's Next? Exploring the future of React](27-October/Whats-Next-Exploring-the-future-of-React.md)
--  _(Empty)_ [The Age of Reason(ML)](27-October/The-Age-of-Reason.md)
--  _(Empty)_ [Speed up app development with prefabricated, extensible, open-source backends](27-October/Speed-up-app-development-with-prefabricated-extensible-open-source-backends.md)
--  _(Empty)_ [Testing the way it should be](27-October/Testing-the-way-it-should-be.md)
--  _(Empty)_ [Living in an async world of React Native](27-October/Living-in-an-async-world-of-React-Native.md)
--  _(Empty)_ [Paradigms for dealing with asynchrony](27-October/Paradigms-for-dealing-with-asynchrony.md)
--  _(Empty)_ [Optimistic updates in a pessimistic world](27-October/Optimistic-updates-in-a-pessimistic-world.md)
--  _(Empty)_ [Past and future of client-side routing](27-October/Past-and-future-of-client-side-routing.md)
--  _(Empty)_ [Elm and React in production](27-October/Elm-and-React-in-production.md)
+ [How the web ecosystem shaped Angular 2](27-October/How-the-web-ecosystem-shaped-Angular-2.md)
+- [What's Next? Exploring the future of React](27-October/Whats-Next-Exploring-the-future-of-React.md)
+- [The Age of Reason(ML)](27-October/The-Age-of-Reason.md)
+- [Speed up app development with prefabricated, extensible, open-source backends](27-October/Speed-up-app-development-with-prefabricated-extensible-open-source-backends.md)
+- [Testing the way it should be](27-October/Testing-the-way-it-should-be.md)
+- [Living in an async world of React Native](27-October/Living-in-an-async-world-of-React-Native.md)
+- [Paradigms for dealing with asynchrony](27-October/Paradigms-for-dealing-with-asynchrony.md)
+- [Optimistic updates in a pessimistic world](27-October/Optimistic-updates-in-a-pessimistic-world.md)
+- [Past and future of client-side routing](27-October/Past-and-future-of-client-side-routing.md)
+- [Elm and React in production](27-October/Elm-and-React-in-production.md)
 
 ### Friday, October 28
 - [Styled-components: Enforcing best practices](28-October/Styled-components-Enforcing-best practices.md)
